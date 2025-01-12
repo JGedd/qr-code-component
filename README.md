@@ -32,9 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - BEM
-- SASS
 
 ### What I learned
 
@@ -43,4 +41,3 @@ This was the first project where I started implementing BEM and SASS
 # Author
 
 - Frontend Mentor - [@JGedd](https://www.frontendmentor.io/profile/JGedd)
-- Twitter - [@John_geddis](https://twitter.com/john_geddis)
